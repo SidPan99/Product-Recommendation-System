@@ -267,5 +267,3 @@ print(f"Public URL: {public_url}")
 
 # Run Streamlit app
 !streamlit run app.py
-
-pip freeze > requirements.txt
