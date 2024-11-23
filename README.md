@@ -1,4 +1,3 @@
-readme_content = """
 # **Product Recommendation System**
 
 This project implements a **Product Recommendation System** using collaborative filtering techniques. It predicts and suggests personalized products for users based on their past interactions and preferences. The system is built with Python, uses the **Surprise library** for the recommendation algorithm, and Flask for the web application.
