@@ -37,5 +37,5 @@ This project implements a **Product Recommendation System** using collaborative 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/SidPan99/Product Recommendation System.git
+   git clone https://github.com/SidPan99/Product-Recommendation-System
    cd Product-Recommendation-System
