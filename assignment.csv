@@ -1,0 +1,16 @@
+User ID,Product ID,Product Category,Purchase Date,Ratings
+1,101,Electronics,10-01-2024,5
+1,102,Books,12-01-2024,4
+1,103,Clothing,15-01-2024,3
+2,101,Electronics,11-01-2024,4
+2,104,Books,13-01-2024,5
+2,105,Furniture,18-01-2024,4
+3,106,Clothing,09-01-2024,3
+3,107,Books,14-01-2024,5
+3,108,Furniture,20-01-2024,4
+4,109,Clothing,12-01-2024,3
+4,102,Books,17-01-2024,4
+4,110,Furniture,21-01-2024,5
+5,101,Electronics,10-01-2024,4
+5,103,Clothing,15-01-2024,3
+5,104,Books,18-01-2024,5
